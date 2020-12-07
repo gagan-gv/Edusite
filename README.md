@@ -1,7 +1,6 @@
 # Edusite
 
 # Steps to install it
-  Installation Guide
     -- Download and Install XAMPP from the given link
       https://www.apachefriends.org/download.html
     -- Once Installation is over run XAMPP Control Panel as ‘Run as Administrator’.
