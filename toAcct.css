@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(50, 50, 50, 0.4), rgba(50, 50, 50, 0.4)), url(img/blog-post-background.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+button {
+    margin-top: 25%;
+    margin-left: 10%;
+    cursor: pointer;
+    padding: 15px;
+    width: 20%;
+    background: transparent;
+    border: 2.5px solid #FF6700;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #FF6700;
+    border-radius: 3px;
+}
+
+button:hover {
+    background: #FF6700;
+    color: whitesmoke;
+}

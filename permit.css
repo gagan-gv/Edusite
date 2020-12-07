@@ -1,0 +1,18 @@
+.card-body {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    width: 5%;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}

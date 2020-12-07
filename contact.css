@@ -1,0 +1,41 @@
+/* -- Contact Form -- */
+
+.contact-form:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.contact-form .input {
+    margin-bottom: 20px;
+}
+
+.contact-form textarea.input {
+    height: 200px;
+}
+
+
+/* -- Contact Information -- */
+
+.contact-details li {
+    margin-bottom: 20px;
+}
+
+.contact-details li i {
+    color: #FF6700;
+    margin-right: 15px;
+    border: 1px solid #EBEBEB;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+
+/* -- Contact Map -- */
+
+#contact-map {
+    height: 260px;
+    border-radius: 4px;
+}

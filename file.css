@@ -1,0 +1,35 @@
+* {
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+}
+
+#form {
+    margin-top: 15%;
+}
+
+#text,
+#textarea {
+    width: 25%;
+    height: 4%;
+    margin-left: 100px;
+    border: 2px solid black;
+}
+
+label,
+em,
+button {
+    margin-left: 10px;
+}
+
+#vid,
+#file {
+    margin-left: 250px;
+}
+
+button {
+    background-color: #FF6700;
+    padding: 20px;
+    font-size: 1.2em;
+    color: #f5f5f5;
+    border-radius: 5px;
+}
