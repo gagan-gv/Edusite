@@ -1,4 +1,5 @@
 # Edusite
+*An e-learning website developed using PHP.*
 
 # Steps to install it
     - Download and Install XAMPP from the given link
